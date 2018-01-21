@@ -1,0 +1,9 @@
+body { margin-left: 3em; margin-right: 3em; max-width: 35em; }
+td { border: thin solid green; white-space: wrap; }
+td.math {border: 0; white-space: normal;}
+div.math * * { border: 0; } /* put this div around equations */
+td.dcell{white-space:nowrap;padding:0px;width:auto; border:none;}
+td.vdcell{white-space:nowrap;padding:0px;width:auto; border:2px solid green;}
+BLOCKQUOTE{margin-left:0ex;margin-right:0ex;text-align:left;}
+dt,dd{ margins:0ex; padding:0ex;}
+dt.dt-thebibliography{color:white;}

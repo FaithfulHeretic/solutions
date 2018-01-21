@@ -1,0 +1,21 @@
+## The good guys
+- Jonathan Heidt
+    - social psychologist
+- Jordan Peterson
+    - clinical psychologist
+- Bret Weinstein
+    - biology professor
+- Nicholas A. Christakis
+    - sociologist
+    - physician
+- Christina Hoff Sommers
+    - author
+    - philosophy professor
+- Cassie Jaye
+    - filmmaker
+- Brendan O'Neill
+    - journalist
+- James Damore
+    - software engineer
+- Lindsay Shepherd
+    - Grad Student at Wilfrid Laurier University
